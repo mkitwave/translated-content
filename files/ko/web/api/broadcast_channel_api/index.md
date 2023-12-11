@@ -5,7 +5,7 @@ l10n:
   sourceCommit: 15d7838061736509d08d642611bd26c1251c0500
 ---
 
-{{DefaultAPISidebar("Broadcast Channel API")}}
+{{DefaultAPISidebar("Broadcast Channel API")}} Just test
 
 **Broadcast Channel API**는 {{glossary("browsing context", "브라우징 맥락들")}} (예: 창, 탭, 프레임, iframe)과 동일한 {{glossary("origin", "출처")}}에 있는 워커들 간의 기본적인 통신을 허용합니다.
 
